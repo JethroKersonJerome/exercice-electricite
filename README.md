@@ -92,3 +92,4 @@ L'application en ligne se met à jour seule en une minute environ. Collez son li
 | `ModuleNotFoundError: No module named 'pandas'` dans le notebook | Mauvais noyau : **Select Kernel**, puis `.venv` |
 
 Bloqué ? Écrivez un commentaire dans l'issue, avec le message d'erreur en entier.
+Voici le lien https://exercice-electricite-jerome.streamlit.app/
